@@ -21,7 +21,7 @@ const validateRequest = (req) => {
 
     // if form is valid
     createUser(req);
-
-    // create user function
-    const createUser = (req) => User.Create(req.name, req.password, req.email);
 }
+
+// create user function
+const createUser = (req) => User.Create(req.name, req.password, req.email);
