@@ -1,6 +1,6 @@
 // liskov substition principle
 
-// subtypes must be sustitubable for their base types
+// subtypes must be sustitutable for their base types
 
 // if a sub class breaks the behaviour expected from the parent, it's violating LSP (Lisko Substition Principle).
 
