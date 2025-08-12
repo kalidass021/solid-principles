@@ -17,5 +17,7 @@
 
         * No code should be forced to depend on methods it does not use.
 
-    * D => Depentency Inversion Principle (DIP)
+    * D => Dependency Inversion Principle (DIP)
+
+        * depending upon interfaces or abstract functions and classes rather upon concrete functions and classes
 */
