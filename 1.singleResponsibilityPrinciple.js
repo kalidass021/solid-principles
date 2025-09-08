@@ -1,4 +1,4 @@
-// a function should have only one responsibility
+// a function or any single identity should have only one responsibility
 
 // wrong
 
